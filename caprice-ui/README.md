@@ -1,3 +1,4 @@
+Deployment refresh
 # CAPRICE UI Prototype
 
 A frontend-only, mock-data prototype combining the CAPRICE V6.1 secure online-first blueprint with an original animated neural-orb and department graph interface.
