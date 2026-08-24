@@ -1,3 +1,4 @@
+Deployment refresh
 # CAPRICE UI V2
 
 CAPRICE-branded adaptation of the MIT-licensed APEX-UI visual system. Includes the animated three.js particle core, SVG reasoning network, shader background, department overview cards, status animation, responsive behavior and browser speech synthesis.
